@@ -5,9 +5,10 @@ This repository contains tools to maintain a static container registry using
 [nerdctl](https://github.com/containerd/nerdctl), a Docker-compatible CLI for
 [containerd](https://containerd.io/).
 
-It targets an AWS-compatible S3 storage account.
-
-It represents the _path of least resistance_ on my setup.
+It targets an AWS-compatible S3 storage account and represents the _path of 
+least resistance_ on my setup – running MacOS on ARM M1 with 
+[containerd](https://containerd.io/) on my development system and using
+Kubernetes on DigitalOcean to run the container workloads.
 
 
 Alternatives
