@@ -10,6 +10,9 @@ least resistance_ on my setup – running MacOS on ARM M1 with
 [containerd](https://containerd.io/) on my development system and using
 Kubernetes on DigitalOcean to run the container workloads.
 
+To learn why/when you would use this, see my post 
+[container registry on a budget](https://maltheborch.com/2022/02/container-registry-on-a-budget-using-aws-s3.html).
+
 
 Alternatives
 ------------
