@@ -78,3 +78,5 @@ you're using.
 $ nerdctl pull $BUCKET.$AWS_DEFAULT_REGION.digitaloceanspaces.com/$IMAGE:$TAG
 ```
 
+You may need to specify your platform using `--platform <name>` if the
+image was built for a different platform than your local machine.
